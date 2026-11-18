@@ -1,0 +1,41 @@
+# Keil build output
+MDK-ARM/STM32_DataLogger_F103/
+Objects/
+Listings/
+build/
+Debug/
+Release/
+*.o
+*.obj
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.build_log.htm
+
+# Local IDE settings and cache
+*.uvguix.*
+*.uvgui.*
+*.uvopt
+*.uvoptx
+.mxproject
+*.bak
+*.tmp
+*.orig
+*.swp
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archives and videos belong outside source commits
+*.zip
+*.7z
+*.rar
+*.mp4
+*.mov
